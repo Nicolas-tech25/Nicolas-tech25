@@ -25,5 +25,7 @@
     <img align="center" alt="reactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="netfly" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </div>
+
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-tech25&layout=donut-vertical)](https://github.com/Nicolas-tech25/github-readme-stats)
